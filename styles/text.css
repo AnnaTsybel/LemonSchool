@@ -1,0 +1,10 @@
+
+h1,h2,h3{
+	text-align:center;
+	font-family: Comic Sans MS, Comic Sans, cursive;
+}
+.news a:hover{
+    text-decoration: underline;
+    margin: 1px;
+}
+

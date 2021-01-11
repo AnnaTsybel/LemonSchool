@@ -1,0 +1,21 @@
+.footer{
+    background:rgb(158, 102, 158) ;
+ 
+}
+.content-footer{
+    display: flex;
+    font-size: 18px;
+}
+.footer_child{
+    width: 20% ;
+    padding: 10px;
+    text-align: center;
+}
+.list a{
+    display: block;
+}
+.footer_child a:hover
+{
+    color:black;
+    text-decoration: underline;
+}

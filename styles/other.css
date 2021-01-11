@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+	box-sizing:border-box;
+}
+
+body {
+    font: 400 16px/1.25 Arial, Tahoma, Verdana, sans-serif;
+}
+ul {
+    list-style: none;
+}
+a{
+    color: black;
+    text-decoration: none;
+}
+.news hr{
+     color: black;
+     margin: 10px 20px;
+  }
+ 
